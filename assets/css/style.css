@@ -203,8 +203,8 @@ input {
 #h {
 	background: url(../img/header.jpg) no-repeat;
 	padding-top: 5px;
-	background-attachment: relative;
 	
+
 	min-height: 700px;
 	width: 100%;
 
@@ -217,7 +217,7 @@ input {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    color: white;
+    color: 71b7e8;
 }
 
 #h .logo {
